@@ -1,3 +1,5 @@
+[Можно попробывать тут!](https://k0ccc.github.io/composeble_1_labmedia/)
+
 # composeble_1_labmedia
 
 Задания на проектирование и реализацию правил валидации
